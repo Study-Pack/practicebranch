@@ -1,1 +1,5 @@
+saving content of lakshmi in merge conflict 
+ adding from master brnach
+
 creating new file lakshmi in stage
+

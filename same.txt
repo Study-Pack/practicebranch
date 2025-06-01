@@ -1,1 +1,3 @@
 same content in branch
+adding ditional in sametxt
+in STAGE CONFLICT RESOLVE
